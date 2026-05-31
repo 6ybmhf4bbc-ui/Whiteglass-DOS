@@ -1,6 +1,4 @@
 # Whiteglass-DOS
-# Whiteglass DOS
-
 Whiteglass DOS (Defense Operating System) is the cybersecurity and resilience platform of the Whiteglass ecosystem.
 
 ## Mission
